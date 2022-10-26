@@ -14,6 +14,7 @@
      "title": "Introduction to R Programming",
      "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg",
      "difficulty": "intermediate",
+     "why": "",
      "duration": 8,
      "students": 110,
      "price": 1000
@@ -23,6 +24,7 @@
      "title": "Introduction to Database",
      "url": "https://cdn.worldvectorlogo.com/logos/amazon-database.svg",
      "difficulty": "basic",
+     "why": "",
      "duration": 3,
      "students": 87,
      "price": 1000
@@ -32,6 +34,7 @@
      "title": "Advanced Java For Software Development",
      "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
      "difficulty": "advanced",
+     "why": "",
      "duration": 48,
      "students": 154,
      "price": 2000
@@ -41,6 +44,7 @@
      "title": "Data Structures and Algorithm",
      "url": "https://hackr.io/tutorials/learn-data-structures-algorithms/logo/logo-data-structures-algorithms?ver=1587721467",
      "difficulty": "advanced",
+     "why": "",
      "duration": 24,
      "students": 637,
      "price": 2000
@@ -50,6 +54,7 @@
      "title": "HTML5, CSS3 & Bootstrap4",
      "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
      "difficulty": "basic",
+     "why": "",
      "duration": 8,
      "students": 38100,
      "price": 1200
