@@ -4,7 +4,7 @@
      "title": "C Programming for Beginners",
      "url": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-program-icon.png",
      "difficulty": "basic",
-     "why": "C is often considered to be the mother of all languages because so many other languages have been based on it. Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world. Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs.",
+     "description": "C is often considered to be the mother of all languages because so many other languages have been based on it. Though C is simple it is one of the most powerful languages ever created.  Considering it was created over 40 years ago, it is still used heavily and is usually in the top 5 or 10 most popular and most widely programming languages in the world. Learning C can actually make you a better programming in other languages like C++, Java, or C# by equipping you with a mental model of what the computer is actually doing when you run your programs.",
      "duration": 10,
      "students": 88,
      "price": 1200
@@ -14,7 +14,7 @@
      "title": "Introduction to R Programming",
      "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg",
      "difficulty": "intermediate",
-     "why": "R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bio-informaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining. As of October 2022, R ranks 12th in the TIOBE index, a measure of programming language popularity, in which the language peaked in 8th place in August 2020.",
+     "description": "R is a programming language for statistical computing and graphics supported by the R Core Team and the R Foundation for Statistical Computing. Created by statisticians Ross Ihaka and Robert Gentleman, R is used among data miners, bio-informaticians and statisticians for data analysis and developing statistical software. Users have created packages to augment the functions of the R language. According to user surveys and studies of scholarly literature databases, R is one of the most commonly used programming languages used in data mining. As of October 2022, R ranks 12th in the TIOBE index, a measure of programming language popularity, in which the language peaked in 8th place in August 2020.",
      "duration": 8,
      "students": 110,
      "price": 1000
@@ -24,7 +24,7 @@
      "title": "Introduction to Database",
      "url": "https://cdn.worldvectorlogo.com/logos/amazon-database.svg",
      "difficulty": "basic",
-     "why": "Structured Query Language (SQL) is the way we communicate with a relational database. It's an intuitive and powerful language and mastering it is rapidly becoming a prerequisite for career paths outside of software development. SQL has been one of the most common skill sets required by employers for software developers for years, according to research published by Indeed. That fact is not likely to change any time soon, as businesses have woken up to the reality that the data they capture, generate, and store has tremendous business value to improve performance and efficiency and uncover new paths for growth.",
+     "description": "Structured Query Language (SQL) is the way we communicate with a relational database. It's an intuitive and powerful language and mastering it is rapidly becoming a prerequisite for career paths outside of software development. SQL has been one of the most common skill sets required by employers for software developers for years, according to research published by Indeed. That fact is not likely to change any time soon, as businesses have woken up to the reality that the data they capture, generate, and store has tremendous business value to improve performance and efficiency and uncover new paths for growth.",
      "duration": 3,
      "students": 87,
      "price": 1000
@@ -34,7 +34,7 @@
      "title": "Advanced Java For Software Development",
      "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
      "difficulty": "advanced",
-     "why": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub particularly for client–server web applications, with a reported 9 million developers.",
+     "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let programmers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need to recompile. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but has fewer low-level facilities than either of them. The Java runtime provides dynamic capabilities (such as reflection and runtime code modification) that are typically not available in traditional compiled languages. As of 2019, Java was one of the most popular programming languages in use according to GitHub particularly for client–server web applications, with a reported 9 million developers.",
      "duration": 48,
      "students": 154,
      "price": 2000
@@ -44,7 +44,7 @@
      "title": "Data Structures and Algorithm",
      "url": "https://hackr.io/tutorials/learn-data-structures-algorithms/logo/logo-data-structures-algorithms?ver=1587721467",
      "difficulty": "advanced",
-     "why": "Data structures are generally based on the ability of a computer to fetch and store data at any place in its memory, specified by a pointer—a bit string, representing a memory address, that can be itself stored in memory and manipulated by the program. Thus, the array and record data structures are based on computing the addresses of data items with arithmetic operations, while the linked data structures are based on storing addresses of data items within the structure itself. The implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure. The efficiency of a data structure cannot be analyzed separately from those operations. This observation motivates the theoretical concept of an abstract data type, a data structure that is defined indirectly by the operations that may be performed on it, and the mathematical properties of those operations (including their space and time cost).",
+     "description": "Data structures are generally based on the ability of a computer to fetch and store data at any place in its memory, specified by a pointer—a bit string, representing a memory address, that can be itself stored in memory and manipulated by the program. Thus, the array and record data structures are based on computing the addresses of data items with arithmetic operations, while the linked data structures are based on storing addresses of data items within the structure itself. The implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure. The efficiency of a data structure cannot be analyzed separately from those operations. This observation motivates the theoretical concept of an abstract data type, a data structure that is defined indirectly by the operations that may be performed on it, and the mathematical properties of those operations (including their space and time cost).",
      "duration": 24,
      "students": 637,
      "price": 2000
@@ -54,7 +54,7 @@
      "title": "HTML5, CSS3 & Bootstrap4",
      "url": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg",
      "difficulty": "basic",
-     "why": "Do you  want to learn how to build your own websites? Do you want to become a web developer? Do you just want to know how to customize the design of a website created with Wordpress (or other web-builder) so it looks like you want it to? HTML & CSS are the basic building blocks of the website world! And this is the perfect course for you to dive right in and learn them.",
+     "description": "Do you  want to learn how to build your own websites? Do you want to become a web developer? Do you just want to know how to customize the design of a website created with Wordpress (or other web-builder) so it looks like you want it to? HTML & CSS are the basic building blocks of the website world! And this is the perfect course for you to dive right in and learn them.",
      "duration": 8,
      "students": 38100,
      "price": 1200
